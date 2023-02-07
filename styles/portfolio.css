@@ -38,3 +38,12 @@ h1 {
   font-size: 24px;
   line-height: 2;
 }
+
+.btn-contact {
+  background: var(--brading-color);
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 13px 30px;
+}
