@@ -70,6 +70,16 @@ btn-outline-primary {
 .project-desciption {
   padding: 120px 60px;
 }
+.logo {
+  max-height: 40px;
+}
+.activ {
+  color: var(--brading-color) !important;
+}
+.nav-item {
+  padding: 0 10px;
+  line-height: 14px;
+}
 
 @media (max-width: 900px) {
   h1 {
