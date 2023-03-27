@@ -75,7 +75,7 @@ nav li {
   line-height: 27px;
   padding: 13px 30px;
 }
-btn-outline-primary {
+.btn-outline-primary {
   color: var(--branding-color);
   border: 1px solid var(--branding-color);
   border-radius: 4px;
@@ -97,6 +97,10 @@ btn-outline-primary {
 .project-container h1 {
   font-size: 56px;
 }
+.about .work .resume .contact {
+  background: var(--secondary-color);
+}
+
 .about-container h1 {
   font-size: 56px;
 }
